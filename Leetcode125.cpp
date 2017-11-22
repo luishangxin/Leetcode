@@ -8,5 +8,5 @@ public:
 	    else if (tolower(*left++) != tolower(*right--)) return false;
         }
 	return true;
-									    }
-									    };
+    }
+};
